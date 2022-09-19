@@ -1,0 +1,2 @@
+dynamixel_motor/dynamixel_controllers:dynamixel_motor/dynamixel_driver:dynamixel_motor/dynamixel_motor:dynamixel_motor/dynamixel_msgs:dynamixel_motor/dynamixel_tutorials:laba3_pack:snake-noetic/gazebo_robot:snake-noetic/moveit_arm:snake-noetic/my_dynamixel_tutorial:snake-noetic/robot_control:snake-noetic/robot_description
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/Desktop/lab3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Desktop/lab3_ws/install -G Unix Makefiles

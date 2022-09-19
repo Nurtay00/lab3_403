@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/lab3_ws/install
+
+Name: gazebo_robot
+Description: Description of gazebo_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

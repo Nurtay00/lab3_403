@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/lab3_ws/devel
+
+Name: dynamixel_tutorials
+Description: Description of dynamixel_tutorials
+Version: 0.4.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: dynamixel_controllers

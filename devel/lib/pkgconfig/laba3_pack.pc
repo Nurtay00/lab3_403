@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/lab3_ws/devel
+
+Name: laba3_pack
+Description: Description of laba3_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
